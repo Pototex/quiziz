@@ -1,0 +1,13 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:left="0dp">
+        <shape android:shape="rectangle" >
+            <solid android:color="@color/bg_result_button"/>
+            <corners android:radius="5dip"/>
+            <size android:height="50dp" android:width="260dp"/>
+        </shape>
+    </item>
+
+</layer-list>
+
+

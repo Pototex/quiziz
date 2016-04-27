@@ -1,0 +1,42 @@
+<resources>
+    <color name="bg_play_exit_question">#636363</color>
+    <color name="bg_option_unselected">#eaeaea</color>
+    <color name="bg_option_selected">#6fbe44</color>
+    <color name="bg_result_header">#f79521</color>
+    <color name="bg_result_options">#b7b7b7</color>
+    <color name="bg_black_transparent">#70000000</color>
+    <color name="bg_black_transparent_result">#85000000</color>
+    <color name="bg_green">#6fbe44</color>
+    <color name="bg_result_button">#eaeaea</color>
+    <color name="bg_answer_counter">#636363</color>
+    <color name="bg_answer">#eaeaea</color>
+    <color name="bg_exit_popup">#b7b7b7</color>
+
+    <color name="line_configuration_color">#dbdbdb</color>
+    <color name="line_result_color">#cecece</color>
+    <color name="line_answer_incorrect">#ff0000</color>
+    <color name="line_answer_correct">#5aff00</color>
+
+    <color name="font_option_selected">#ffffff</color>
+    <color name="font_option_deselected">#000000</color>
+    <color name="font_popup_intro_message">#6fbe44</color>
+    <color name="font_popup_generate_message">#6fbe44</color>
+    <color name="font_configuration">#636363</color>
+    <color name="font_configuration_selected">#6fbe44</color>
+    <color name="font_select_chapters">#636363</color>
+    <color name="font_questions">#636363</color>
+    <color name="font_result">#636363</color>
+    <color name="font_answer">#636363</color>
+    <color name="font_premium">#636363</color>
+    <color name="font_premium_not_thanks">#6b6b6b</color>
+    <color name="font_popup_version_ok">#6fbe44</color>
+    <color name="font_exit_deselected">#6b6b6b</color>
+    <color name="font_exit_selected">#6fbe44</color>
+
+    <color name="bg_premium_icon">#6fbe44</color>
+    <color name="bg_basic_icon">#eaeaea</color>
+    <color name="font_premium_icon">#ffffff</color>
+    <color name="font_basic_icon">#000000</color>
+
+    <color name="bg_premium_line">#eaeaea</color>
+</resources>

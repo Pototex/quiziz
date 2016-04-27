@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Quiziz Manejo</string>
+    <!--<string name="app_id">204115279966578</string>-->
+    <string name="app_id">498775990305241</string>
+
+    <string name="next_question">Siguiente</string>
+    <string name="cancel_test">Salir</string>
+    <string name="play_question">Seguir</string>
+    <string name="stop_question">Pausa</string>
+
+    <string name="spend_time">Tiempo agotado</string>
+    <string name="answer_incorrect">Respuesta incorrecta</string>
+    <string name="answer_correct">Respuesta correcta</string>
+    <string name="answer_header">Revisar Respuestas</string>
+
+    <string name="label_splash">¡Estudiar es fácil!</string>
+    <string name="message_splash">La aplicación que te ayuda a ganar esa importante prueba</string>
+    <string name="test_drive_message_splash">Prueba de manejo de Costa Rica</string>
+    <string name="get_into_splash">Ingresar</string>
+
+    <string name="result_header">Prueba de manejo de Costa Rica</string>
+    <string name="result_score_title">Tu nota es</string>
+
+    <string name="result_0_to_50">Vamos, con más esfuerzo lo lograrás.</string>
+    <string name="result_50_to_70">Ya casi, tenés que estudiar un poco más.</string>
+    <string name="result_70_to_85">Bien, pero aún podés hacerlo mejor.</string>
+    <string name="result_85_to_100_some_chapters">Muy bien, ahora seguí con los otros capítulos.</string>
+    <string name="result_85_to_100_less_40_questions">Excelente, ahora probá con más preguntas.</string>
+    <string name="result_85_to_100_all_chapters_more_40_questions">Excelente, de seguro ganarás tu prueba.</string>
+
+    <string name="result_check_answer">Revisar respuestas</string>
+    <string name="result_repeat_all_test">Repetir todas</string>
+    <string name="result_repeat_incorrect_answer">Repetir incorrectas</string>
+    <string name="result_go_start">Volver al inicio</string>
+
+    <string name="configuration_header">Prueba de manejo Costa Rica</string>
+    <string name="configuration_questions">Cantidad de preguntas</string>
+    <string name="configuration_difficulty">Nivel de complejidad</string>
+    <string name="configuration_time">Tiempo por pregunta</string>
+    <string name="configuration_options_questions">Opciones de preguntas</string>
+    <string name="configuration_generate">Generar quiz</string>
+    <string name="configuration_edit_chapters">Todos los capítulos</string>
+    <string name="configuration_custom_chapters">Personalizado</string>
+
+    <string name="chapter_header">Editar</string>
+    <string name="chapter_select_chapters">Seleccioná los capítulos que deseás estudiar</string>
+    <string name="chapter_all_chapters">Todos los capítulos</string>
+
+    <string name="setup_header">Configuración</string>
+    <string name="setup_premium">Convertir a Premium</string>
+
+    <string name="popup_intro_message">Ingresando</string>
+
+    <string name="popup_generate_message">Generando</string>
+
+    <string name="popup_premium_message">Esta es una función premium, descubrila por solo USD 1,99</string>
+    <string name="popup_premium_subscribe">Suscribirme</string>
+    <string name="popup_premium_benefits"><u>Quiero conocer los beneficios :)</u></string>
+    <string name="popup_premium_not_thanks"><u>En este momento no, gracias</u></string>
+
+    <string name="popup_version_correct">Entendido</string>
+
+    <string name="popup_exit_message">¿De verdad querés salir de este quiz?</string>
+    <string name="popup_exit_ok">Salir</string>
+    <string name="popup_exit_cancel">Cancelar</string>
+
+    <string name="internet_error">Su dispositivo no cuenta con conexión a internet en este momento. Por favor intente de nuevo.</string>
+
+    <string name="no_selected_chapters">Debe seleccionar al menos un capítulo.</string>
+
+    <string name="setup_premium_message">Ya te has convertido en Premium.</string>
+    <string name="setup_basic_label">Versión Básica</string>
+    <string name="setup_premium_label">Versión Premium</string>
+</resources>

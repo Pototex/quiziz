@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <RelativeLayout
+        android:id="@+id/header_answer"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/bg_black_answer_header">
+
+        <TextView
+            android:id="@+id/question_of_total_questions"
+            android:layout_width="65dp"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/bg_answer_counter"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:textSize="12sp"/>
+
+        <ImageView
+            android:id="@+id/icon_result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/icon_timer_on"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/question_text"
+        android:layout_below="@+id/header_answer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:textSize="15sp"
+        android:textColor="@color/font_answer"/>
+
+    <TextView
+        android:id="@+id/incorrect_answer"
+        android:layout_below="@+id/question_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/bg_answer_incorrect"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:textColor="#000000"/>
+
+    <TextView
+        android:id="@+id/correct_answer"
+        android:layout_below="@+id/incorrect_answer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/bg_answer_correct"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:textColor="#000000"/>
+
+</RelativeLayout>
